@@ -29,8 +29,8 @@ owner: 'Fitur Khusus Owner Bot',
 group: 'Fitur Digunakan Hanya Untuk Group!',
 private: 'Fitur Digunakan Hanya Untuk Private Chat!',
 bot: 'Fitur Khusus Pengguna Nomor Bot',
-wait: '*LOADING....* Mohon Sabar Ya',
-wrongFormat: 'Format yg anda masukan salah',
+wait: '*LOADING....* Mohon Sabar Anjing',
+wrongFormat: 'Format yg anda masukan salah goblok',
 error: 'Maaf terjadi kesalahan',
 }
 
